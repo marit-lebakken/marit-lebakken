@@ -1,6 +1,3 @@
-### Hi there 👋
+### Hello!
 
-- 🔭 I’m currently working on updating my sailing team's website
-- 🌱 I’m currently learning algorithm design
-- 📫 How to reach me: marit@lebakken.com
-- 😄 Pronouns: she/her
+My name is Marit (she/her). I am currently a junior at the University of Vermont. I am pursuing a degree in computer science with minors in food systems and geospatial technologies. 
